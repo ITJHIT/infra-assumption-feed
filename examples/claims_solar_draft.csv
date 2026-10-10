@@ -1,0 +1,4 @@
+series_id,period,claimed_value,claimed_source,where
+smp_mainland_monthly,2026-01,103.54,search summary of KPX table,solar draft section 1
+smp_mainland_monthly,2026-08,148.91,solar-installer blog (secondary),solar draft section 1
+smp_mainland_monthly,2026-09,116.74,solar-installer blog (secondary),solar draft section 1

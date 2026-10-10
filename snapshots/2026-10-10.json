@@ -1,0 +1,436 @@
+{
+  "retrieved_at": "2026-10-10T23:29:59+09:00",
+  "as_of": "2026-10-10",
+  "series": {
+    "smp_mainland_monthly": {
+      "label": "SMP, mainland, monthly average",
+      "unit": "KRW/kWh",
+      "source": "kpx_smp",
+      "source_url": "https://new.kpx.or.kr/smpMonthly.es?mid=a10606080300&device=pc",
+      "grade": "primary",
+      "observations": [
+        {
+          "period": "2025-01",
+          "value": 117.11
+        },
+        {
+          "period": "2025-02",
+          "value": 116.39
+        },
+        {
+          "period": "2025-03",
+          "value": 113.12
+        },
+        {
+          "period": "2025-04",
+          "value": 124.63
+        },
+        {
+          "period": "2025-05",
+          "value": 125.5
+        },
+        {
+          "period": "2025-06",
+          "value": 118.02
+        },
+        {
+          "period": "2025-07",
+          "value": 120.39
+        },
+        {
+          "period": "2025-08",
+          "value": 117.39
+        },
+        {
+          "period": "2025-09",
+          "value": 112.9
+        },
+        {
+          "period": "2025-10",
+          "value": 101.53
+        },
+        {
+          "period": "2025-11",
+          "value": 94.8
+        },
+        {
+          "period": "2025-12",
+          "value": 90.43
+        },
+        {
+          "period": "2026-01",
+          "value": 103.54
+        },
+        {
+          "period": "2026-02",
+          "value": 108.52
+        },
+        {
+          "period": "2026-03",
+          "value": 110.03
+        },
+        {
+          "period": "2026-04",
+          "value": 118.94
+        },
+        {
+          "period": "2026-05",
+          "value": 121.36
+        },
+        {
+          "period": "2026-06",
+          "value": 114.11
+        },
+        {
+          "period": "2026-07",
+          "value": 133.79
+        },
+        {
+          "period": "2026-08",
+          "value": 148.39
+        },
+        {
+          "period": "2026-09",
+          "value": 119.02
+        }
+      ],
+      "latest": {
+        "period": "2026-09",
+        "value": 119.02
+      },
+      "age_days": 10,
+      "stale": false
+    },
+    "smp_jeju_monthly": {
+      "label": "SMP, Jeju, monthly average",
+      "unit": "KRW/kWh",
+      "source": "kpx_smp",
+      "source_url": "https://new.kpx.or.kr/smpMonthly.es?mid=a10606080300&device=pc",
+      "grade": "primary",
+      "observations": [
+        {
+          "period": "2025-01",
+          "value": 118.9
+        },
+        {
+          "period": "2025-02",
+          "value": 116.05
+        },
+        {
+          "period": "2025-03",
+          "value": 105.57
+        },
+        {
+          "period": "2025-04",
+          "value": 120.24
+        },
+        {
+          "period": "2025-05",
+          "value": 122.32
+        },
+        {
+          "period": "2025-06",
+          "value": 120.62
+        },
+        {
+          "period": "2025-07",
+          "value": 121.13
+        },
+        {
+          "period": "2025-08",
+          "value": 118.46
+        },
+        {
+          "period": "2025-09",
+          "value": 114.06
+        },
+        {
+          "period": "2025-10",
+          "value": 101.17
+        },
+        {
+          "period": "2025-11",
+          "value": 95.82
+        },
+        {
+          "period": "2025-12",
+          "value": 91.03
+        },
+        {
+          "period": "2026-01",
+          "value": 102.94
+        },
+        {
+          "period": "2026-02",
+          "value": 108.47
+        },
+        {
+          "period": "2026-03",
+          "value": 106.77
+        },
+        {
+          "period": "2026-04",
+          "value": 117.24
+        },
+        {
+          "period": "2026-05",
+          "value": 118.26
+        },
+        {
+          "period": "2026-06",
+          "value": 113.44
+        },
+        {
+          "period": "2026-07",
+          "value": 134.13
+        },
+        {
+          "period": "2026-08",
+          "value": 149.09
+        },
+        {
+          "period": "2026-09",
+          "value": 118.97
+        }
+      ],
+      "latest": {
+        "period": "2026-09",
+        "value": 118.97
+      },
+      "age_days": 10,
+      "stale": false
+    },
+    "bok_base_rate": {
+      "label": "Bank of Korea base rate",
+      "unit": "% p.a.",
+      "source": "ecos",
+      "source_url": "https://ecos.bok.or.kr/ StatisticSearch 722Y001/0101000",
+      "grade": "primary",
+      "observations": [
+        {
+          "period": "2026-04",
+          "value": 2.5
+        },
+        {
+          "period": "2026-05",
+          "value": 2.5
+        },
+        {
+          "period": "2026-06",
+          "value": 2.5
+        },
+        {
+          "period": "2026-07",
+          "value": 2.75
+        },
+        {
+          "period": "2026-08",
+          "value": 3.0
+        },
+        {
+          "period": "2026-09",
+          "value": 3.0
+        }
+      ],
+      "latest": {
+        "period": "2026-09",
+        "value": 3.0
+      },
+      "age_days": 10,
+      "stale": false,
+      "note": "ECOS sample key (10-row cap)"
+    },
+    "ktb_3y": {
+      "label": "Korea Treasury Bond 3Y yield",
+      "unit": "% p.a.",
+      "source": "ecos",
+      "source_url": "https://ecos.bok.or.kr/ StatisticSearch 817Y002/010200000",
+      "grade": "primary",
+      "observations": [
+        {
+          "period": "2026-09-28",
+          "value": 4.119
+        },
+        {
+          "period": "2026-09-29",
+          "value": 4.076
+        },
+        {
+          "period": "2026-09-30",
+          "value": 4.011
+        },
+        {
+          "period": "2026-10-01",
+          "value": 4.01
+        },
+        {
+          "period": "2026-10-02",
+          "value": 3.937
+        },
+        {
+          "period": "2026-10-06",
+          "value": 3.933
+        },
+        {
+          "period": "2026-10-07",
+          "value": 3.961
+        },
+        {
+          "period": "2026-10-08",
+          "value": 3.983
+        }
+      ],
+      "latest": {
+        "period": "2026-10-08",
+        "value": 3.983
+      },
+      "age_days": 2,
+      "stale": false,
+      "note": "ECOS sample key (10-row cap)"
+    },
+    "ktb_5y": {
+      "label": "Korea Treasury Bond 5Y yield",
+      "unit": "% p.a.",
+      "source": "ecos",
+      "source_url": "https://ecos.bok.or.kr/ StatisticSearch 817Y002/010200001",
+      "grade": "primary",
+      "observations": [
+        {
+          "period": "2026-09-28",
+          "value": 4.345
+        },
+        {
+          "period": "2026-09-29",
+          "value": 4.276
+        },
+        {
+          "period": "2026-09-30",
+          "value": 4.203
+        },
+        {
+          "period": "2026-10-01",
+          "value": 4.2
+        },
+        {
+          "period": "2026-10-02",
+          "value": 4.129
+        },
+        {
+          "period": "2026-10-06",
+          "value": 4.117
+        },
+        {
+          "period": "2026-10-07",
+          "value": 4.134
+        },
+        {
+          "period": "2026-10-08",
+          "value": 4.158
+        }
+      ],
+      "latest": {
+        "period": "2026-10-08",
+        "value": 4.158
+      },
+      "age_days": 2,
+      "stale": false,
+      "note": "ECOS sample key (10-row cap)"
+    },
+    "ktb_10y": {
+      "label": "Korea Treasury Bond 10Y yield",
+      "unit": "% p.a.",
+      "source": "ecos",
+      "source_url": "https://ecos.bok.or.kr/ StatisticSearch 817Y002/010210000",
+      "grade": "primary",
+      "observations": [
+        {
+          "period": "2026-09-28",
+          "value": 4.539
+        },
+        {
+          "period": "2026-09-29",
+          "value": 4.476
+        },
+        {
+          "period": "2026-09-30",
+          "value": 4.407
+        },
+        {
+          "period": "2026-10-01",
+          "value": 4.436
+        },
+        {
+          "period": "2026-10-02",
+          "value": 4.365
+        },
+        {
+          "period": "2026-10-06",
+          "value": 4.369
+        },
+        {
+          "period": "2026-10-07",
+          "value": 4.376
+        },
+        {
+          "period": "2026-10-08",
+          "value": 4.395
+        }
+      ],
+      "latest": {
+        "period": "2026-10-08",
+        "value": 4.395
+      },
+      "age_days": 2,
+      "stale": false,
+      "note": "ECOS sample key (10-row cap)"
+    },
+    "corp_aa_minus_3y": {
+      "label": "Corporate bond 3Y (AA-) yield",
+      "unit": "% p.a.",
+      "source": "ecos",
+      "source_url": "https://ecos.bok.or.kr/ StatisticSearch 817Y002/010300000",
+      "grade": "primary",
+      "observations": [
+        {
+          "period": "2026-09-28",
+          "value": 4.788
+        },
+        {
+          "period": "2026-09-29",
+          "value": 4.755
+        },
+        {
+          "period": "2026-09-30",
+          "value": 4.703
+        },
+        {
+          "period": "2026-10-01",
+          "value": 4.701
+        },
+        {
+          "period": "2026-10-02",
+          "value": 4.638
+        },
+        {
+          "period": "2026-10-06",
+          "value": 4.636
+        },
+        {
+          "period": "2026-10-07",
+          "value": 4.644
+        },
+        {
+          "period": "2026-10-08",
+          "value": 4.651
+        }
+      ],
+      "latest": {
+        "period": "2026-10-08",
+        "value": 4.651
+      },
+      "age_days": 2,
+      "stale": false,
+      "note": "ECOS sample key (10-row cap)"
+    }
+  }
+}
